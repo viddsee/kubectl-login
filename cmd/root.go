@@ -5,9 +5,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/sdrozdkov/kubectl-login/helpers"
-	"github.com/sdrozdkov/kubectl-login/kubeconfig"
-	"github.com/sdrozdkov/kubectl-login/oauthclient"
+	"github.com/viddsee/kubectl-login/helpers"
+	"github.com/viddsee/kubectl-login/kubeconfig"
+	"github.com/viddsee/kubectl-login/oauthclient"
 
 	"github.com/spf13/cobra"
 )

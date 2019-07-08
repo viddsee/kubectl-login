@@ -11,8 +11,8 @@ import (
 	oidc "github.com/coreos/go-oidc"
 	"golang.org/x/oauth2"
 
-	"github.com/sdrozdkov/kubectl-login/helpers"
-	"github.com/sdrozdkov/kubectl-login/kubeconfig"
+	"github.com/viddsee/kubectl-login/helpers"
+	"github.com/viddsee/kubectl-login/kubeconfig"
 )
 
 type App struct {
